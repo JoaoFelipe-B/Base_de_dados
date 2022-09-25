@@ -1,0 +1,53 @@
+Pontos Turísticos escolhidos
+
+Acre: Rio Branco, Parque Estadual Chandless, Parque Nacional da Serra do Divisor, Parque Ambiental Chico Mendes
+
+Alagoas: Maceió, Piranhas, Praia do Gunga, Praia de Maragogi.
+
+Amapá: Macapá, Monte Mitaraca, Fortaleza de São José de Macapá, Parque Nacional do Cabo Orange.
+
+Amazonas: Manaus, Parque Nacional de Anavilhanas, Parque Nacional de Jaú, Encontro das Águas.
+
+Bahia: Salvador, Parque Nacional da Chapada Diamantina, Taipus de Fora, Elevador Lacerda.
+
+Ceará: Fortaleza, Serra de Maranguape, Praia das Fontes, Praia de Iracema.
+
+Espírito Santo: Vitória, Parque Estadual da Pedra Azul, Pico da Bandeira, Praia da Bacutia.
+
+Goiás: Goiânia, Parque Nacional da Chapada dos Veadeiros, Caldas Novas, Cachoeira do Segredo.
+
+Maranhão: São Luís, Imperatriz, Parque Nacional dos Lençóis Maranhenses, Parque Nacional da Chapada das Mesas.
+
+Mato Grosso: Cuiabá, Parque Nacional do Pantanal Mato-Grossense, Parque Nacional da Chapada dos Guimarães, Aquário Encantado.
+
+Mato Grosso do Sul: Campo Grande, Gruta do Lago Azul, Rio Sucuri, Estância Mimosa.
+
+Minas Gerais: Belo Horizonte, Instituto Inhotim, Parque Nacional da Serra da Canastra, Parque Nacional da Serra do Cipó.
+
+Paraíba: João Pessoa, Areia, Praia do Bessa, Praia de Coqueirinho.
+
+Paraná: Curitiba, Lapa, Ilha do mel, Antonina.
+
+Pernambuco: Recife, UFPE, Feira de Caruaru, Porto de Galinhas.
+
+Piauí: Teresina, Delta do Rio Parnaíba, Lagoa do Portinho, Pedra do Sal.
+
+Rio de Janeiro: Rio de Janeiro, Maracanã, Pão de Açucar, Copacabana.
+
+Rio Grande do Norte: Natal, Praia do Amor, Guga Park, Lagoa Nova.
+
+Rio Grande do Sul: Porto Alegre, Parque do Caracol, Snowland, Praia do Cassino.
+
+Rondônia: Porto Velho, Chácara Recanto da Paz, Vale das Cachoeiras, Forte príncipe da beira.
+
+Roraima: Boa Vista, Serra da Mocidade, Monumento Garimpeiro, Lago do Robertinho.
+
+Santa Catarina: Florianópolis, Beto Carrero, Praia Mole, Praia da Joaquina.
+
+São Paulo: São Paulo, Fábrica de Chocolate, Praia de Santos, Zoológico de SP.
+
+Sergipe: Aracaju, Praia do Atalaia, Grota do Angico, Museu de Gente Sergipana.
+
+Tocantins: Palmas, Cachoeira da Velha, Dunas do Jalapão, Serra do Espírito Santo.
+
+Pará: Belém, Atalaia, Ilha do Pesqueiro, Ilha do Amor
